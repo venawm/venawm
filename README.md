@@ -1,4 +1,4 @@
-Hi, I’m @veawm
+Hi, I’m @Samir
 I’m currently learning Full-Stack Web Development
 I’m looking to work on backend projects with Node.js
 My personal email pandesamir3@gmail.com
